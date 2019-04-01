@@ -1,0 +1,44 @@
+colour scheme
+
+black - #17252A
+dark turquoise - #2B7A78
+turquoise - 3AAFA9
+light blue - #DEF2F1
+off white - #FEFFFF
+
+------------------------------
+
+fonts
+font-family: 'Pangolin', cursive; - h2
+font-family: 'Montserrat', sans-serif; logo
+font-family: 'Lato', sans-serif; - normal text
+
+dark to light
+FEFCD7	A6CB45	71B238	6A8347
+
+notes:
+- transition logo on loading
+- responsiveness !!!
+- remove bg on smaller screens
+- carousel text size on smaller screens
+- to do list
+- upvoting
+- hover effects over links and buttons
+-
+
+working features:
+- navbar with links
+- navbar links fade in/out & change colour on hover
+- bootstrap image carousel (auto transition and nav buttons)
+- dropdown in navbar
+
+content:
+attractions:
+  - giants causeway
+  - dark Hedges
+activities:
+  - slemish
+  - W5
+entertainment:
+  - sport
+  - opera house
